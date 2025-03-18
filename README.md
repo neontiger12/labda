@@ -1,1 +1,1 @@
-# labda
+# AWS Lambda practice
